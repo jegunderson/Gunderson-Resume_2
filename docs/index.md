@@ -38,10 +38,10 @@ __Church of Jesus Christ of Latter-Day Saints__, Concepcion Chile
 - Learned conversational Spanish 
 - Learned to work on my feet from morning to light every day providing community service
 
-### Data Science Lead
+### Shift Lead
 
 `December 2020 - April 2022`
-__Jersey Mikes__, Shift lead
+__Jersey Mikes__, Mesa, AZ
 
 - Served hundreds of customers a day while taking care of the work area 
 - Communicated with coworkers and customers to solve problems and provide optimal service  
