@@ -47,8 +47,9 @@ __Jersey Mikes__, Mesa, AZ
 - Communicated with coworkers and customers to solve problems and provide optimal service  
 - Self evaluated personal skills and weaknesses and prioritized tasks to learn quickly
 
+### Volunteer Coach
 `Spring 2015, 2017`
-__Special Olympics__, Volunteer Coach
+__Special Olympics__, Mesa, AZ
 
 - Coached and supported multiple athletes with special physical needs in the 800 meters, one mile, and two mile
 - Collaborated in environment with diverse coaches, staff, and athletes 
