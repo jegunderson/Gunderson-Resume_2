@@ -17,7 +17,11 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2021-2024`
-__Brigham Young University Idaho__, Rexburg, ID
+**Software Engineering Major.** *Dec 2024*
+&nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
+&nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
+
+&nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Marketing
 
 - Full academic scholarship with 4.0 GPA
 
