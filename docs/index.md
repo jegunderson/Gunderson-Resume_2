@@ -5,6 +5,8 @@ title: Jacob Gunderson's Resume
 # Jacob Gunderson
 Student of software engineering
 
+
+
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
@@ -30,6 +32,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Software Engineering GPA
 
+<!-- I guess this is the last touch for your resume, but very very good!-->
 
 ## Service and Work History
 
@@ -41,6 +44,8 @@ __Church of Jesus Christ of Latter-Day Saints__, Concepcion Chile
 - Found, communicated with, and taught people in the street and by other means 
 - Learned conversational Spanish 
 - Learned to work on my feet from morning to light every day providing community service
+
+<!-- It is really cool you go to serve in Chile, Tu resume se ve muy bien!-->
 
 ### Shift Lead
 
@@ -58,6 +63,7 @@ __Special Olympics__, Mesa, AZ
 - Coached and supported multiple athletes with special physical needs in the 800 meters, one mile, and two mile
 - Collaborated in environment with diverse coaches, staff, and athletes 
 
+<!-- This is very interesting very impressive to let you show that you can teach other people for important things.-->
 
 
 
