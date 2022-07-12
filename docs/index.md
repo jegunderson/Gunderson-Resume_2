@@ -23,7 +23,7 @@ Student of software engineering
 &nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
 &nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Marketing
+&nbsp;&nbsp;&nbsp;&nbsp; Minor: Marketing
 
 - Full academic scholarship with 4.0 GPA
 
